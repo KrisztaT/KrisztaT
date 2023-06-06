@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 ## 📘 Some of my Repositories
 
 <p align="left">
-  <a href="https://github.com/KrisztaT/react-todo-list"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisztaT&repo=react-todo-list&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/KrisztaT/github-profile-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisztaT&repo=github-profile-react&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/KrisztaT/Battleship"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KrisztaT&repo=Battleship&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/KrisztaT/battleship-lite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KrisztaT&repo=battleship-lite&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/KrisztaT/react-todo-list"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisztaT&repo=react-todo-list&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="react-todo-list"></a>
+  <a href="https://github.com/KrisztaT/github-profile-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisztaT&repo=github-profile-react&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="github-profile-react"></a>
+  <a href="https://github.com/KrisztaT/Battleship"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KrisztaT&repo=Battleship&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="Battleship"></a>
+  <a href="https://github.com/KrisztaT/battleship-lite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KrisztaT&repo=battleship-lite&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="battleship-lite"></a>
 </p>
 <p align="left">
   <a href="https://github.com/KrisztaT?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
