@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 - 🔭 I’m currently working on my Portfolio site.
-- 🌱 I’m currently learning Express and MongoDb.
+- 🌱 I’m currently learning Express and MongoDB.
 - 👯 I'm open for collaboration.
 - 💬 Ask me about **Web Development, Sewing or Greyhounds.**
 - 📫 How to reach me: <a href="mailto:kt.dev.web@gmail.com">kt.dev.web@gmail.com</a>
