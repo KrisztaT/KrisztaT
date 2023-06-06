@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Skill](https://img.shields.io/badge/Python-e0ed4c?style=for-the-badge&logo=python&logoColor=black)
 ![Skill](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
+![Skill](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Skill](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Skill](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
