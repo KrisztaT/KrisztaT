@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 
 ## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-- 🔭 I’m currently working on my Portfolio site.
+- 🔭 I’m currently working on deploying a practice full stack web application.
 - 🌱 I’m currently learning Express and MongoDB.
 - 👯 I'm open for collaboration.
 - 💬 Ask me about **Web Development, Sewing or Greyhounds.**
 - 📫 How to reach me: <a href="mailto:kt.dev.web@gmail.com">kt.dev.web@gmail.com</a>
+- 🌐 Visit my portfolio site: https://kt-dev-web.netlify.app/
 
 <br>
 <hr />
@@ -67,10 +68,11 @@ Here are some ideas to get you started:
 ## 📘 Some of my Repositories
 
 <p align="left">
+ <a href="https://github.com/KrisztaT/battleship-lite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KrisztaT&repo=battleship-lite&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="battleship-lite"></a>
+  <a href="https://github.com/KrisztaT/portfolio_2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisztaT&repo=portfolio_2023&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio_2023"></a>
   <a href="https://github.com/KrisztaT/react-todo-list"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisztaT&repo=react-todo-list&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="react-todo-list"></a>
   <a href="https://github.com/KrisztaT/github-profile-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisztaT&repo=github-profile-react&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="github-profile-react"></a>
   <a href="https://github.com/KrisztaT/Battleship"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KrisztaT&repo=Battleship&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="Battleship"></a>
-  <a href="https://github.com/KrisztaT/battleship-lite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KrisztaT&repo=battleship-lite&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="battleship-lite"></a>
 </p>
 <p align="left">
   <a href="https://github.com/KrisztaT?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
